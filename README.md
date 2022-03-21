@@ -2,7 +2,7 @@
 
 ## 🚀 Começando . . .
 
-O objetivo principal do desenvolvimento desse projeto, foi por motivos de estudos utilizando o Framework **Angular** na versäo  **13.2.5**
+O objetivo principal do desenvolvimento desse projeto, foi por motivos de estudos utilizando o Framework **Angular** na versäo  **8.2.13**
 
 ## ✒️ Dev
 
